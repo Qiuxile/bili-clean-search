@@ -1,10 +1,14 @@
-# Bilibili - 极简搜索页 (bili-clean-search)
+<img width="1654" height="966" alt="image" src="https://github.com/user-attachments/assets/c59a688b-0466-420b-a0ab-ebb9e7e7c3f2" /># Bilibili - 极简搜索页 (bili-clean-search)
 
 > 还你一个干净的 B 站：屏蔽推荐流，首页只留搜索。
 
 ## 📖 项目简介
 
 在使用 B 站网页端时，繁杂的首页推荐流和分类推荐往往会分散注意力。**Bilibili - 极简搜索页** 是一个轻量级的油猴（Tampermonkey）脚本，旨在将 B 站网页端首页改造为一个纯粹的“极简视频搜索页”，屏蔽一切推荐内容，只保留核心的搜索功能。
+
+## 📸 效果展示
+
+<img width="1654" height="966" alt="image" src="https://github.com/user-attachments/assets/b9e463c3-974d-492b-b06d-163c47970f82" />
 
 ## ✨ 功能特性
 
