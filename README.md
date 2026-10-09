@@ -1,4 +1,4 @@
-<img width="1654" height="966" alt="image" src="https://github.com/user-attachments/assets/c59a688b-0466-420b-a0ab-ebb9e7e7c3f2" /># Bilibili - 极简搜索页 (bili-clean-search)
+# Bilibili - 极简搜索页 (bili-clean-search)
 
 > 还你一个干净的 B 站：屏蔽推荐流，首页只留搜索。
 
@@ -9,6 +9,7 @@
 ## 📸 效果展示
 
 <img width="1654" height="966" alt="image" src="https://github.com/user-attachments/assets/b9e463c3-974d-492b-b06d-163c47970f82" />
+<img width="1658" height="967" alt="image" src="https://github.com/user-attachments/assets/4af81763-ee27-4700-bbed-0ac39989fb5b" />
 
 ## ✨ 功能特性
 
