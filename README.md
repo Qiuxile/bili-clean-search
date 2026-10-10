@@ -23,7 +23,7 @@
 
 1. **安装浏览器扩展**：确保你的浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/)（油猴）扩展。
 2. **安装脚本**：选择以下任意一种方式安装：
-   - **Greasy Fork（推荐）**：[点击此处前往 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/还没有) *(请替换为你实际的 Greasy Fork 链接)*
+   - **Greasy Fork（推荐）**：[点击此处前往 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/599581-bilibili-%E6%9E%81%E7%AE%80%E6%90%9C%E7%B4%A2%E9%A1%B5)
    - **GitHub Raw**：点击 [bili-clean-search.user.js](https://raw.githubusercontent.com/Qiuxile/bili-clean-search/main/bili-clean-search.user.js) 进行安装。
 
 ## 🚀 使用方法
