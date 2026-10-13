@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bilibili - 极简搜索页
 // @namespace    https://github.com/Qiuxile/bili-clean-search
-// @version      1.0
+// @version      1.1
 // @description  屏蔽 B 站首页推荐流、分类推荐等推荐内容，把首页变成极简视频搜索页。
 // @author       Surile
 // @match        https://www.bilibili.com/*
@@ -42,7 +42,6 @@
             min-width: 350px !important;
             border-radius: 12px !important;
             overflow: visible !important;
-            background: #fff !important;
             box-shadow: none !important;
             transition: opacity 0.15s ease !important;
         }
@@ -65,6 +64,18 @@
         .bili-header__banner,
         .bili-feed4-layout {
             content-visibility: hidden !important;
+        }
+
+        .left-entry__item-trigger, .trigger-text, .trigger-icon, .left-entry__item, .right-entry__main {
+            color: #000;
+        }
+
+        .upload-entry__trigger {
+            color: #fff;
+        }
+
+        .left-entry__item-trigger {
+            color: #000 !important;
         }
     `;
 
