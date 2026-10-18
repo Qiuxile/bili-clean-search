@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bilibili - 极简搜索页
 // @namespace    https://github.com/Qiuxile/bili-clean-search
-// @version      1.1
+// @version      1.2
 // @description  屏蔽 B 站首页推荐流、分类推荐等推荐内容，把首页变成极简视频搜索页。
 // @author       Surile
 // @match        https://www.bilibili.com/*
