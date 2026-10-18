@@ -27,7 +27,8 @@
         .bili-feed4-layout,
         .bili-header__banner,
         .bili-skeleton,
-        .feed-skeleton {
+        .feed-skeleton,
+        .adblock-tips {
             display: none !important;
         }
 
@@ -77,6 +78,7 @@
         .left-entry__item-trigger {
             color: #000 !important;
         }
+
     `;
 
     let styleElement = null;
