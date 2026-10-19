@@ -10,6 +10,8 @@
 
 <img width="1654" height="966" alt="image" src="https://github.com/user-attachments/assets/b9e463c3-974d-492b-b06d-163c47970f82" />
 <img width="1658" height="967" alt="image" src="https://github.com/user-attachments/assets/4af81763-ee27-4700-bbed-0ac39989fb5b" />
+<img width="1705" height="910" alt="image" src="https://github.com/user-attachments/assets/c8f26f34-6d3b-41d5-907c-a283b0992870" />
+<img width="1708" height="904" alt="image" src="https://github.com/user-attachments/assets/87e6d61d-61c3-4e83-8024-d302a96400bd" />
 
 ## ✨ 功能特性
 
